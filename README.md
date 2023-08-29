@@ -1,6 +1,7 @@
 Welcome to the Cygnus Project
 ======
-This is a small project that is being made and maintained for fun.
+### This is a small project that is being made and maintained for fun.
+
 Contributors
 ------
 [Will Hazlehurst](https://www.linkedin.com/in/william-hazlehurst/ "Will's LinkedIn")
