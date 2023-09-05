@@ -1,0 +1,4 @@
+name: CygnusPlugin
+version: 0.0.1
+main: io.github.wdhazleh.plugin
+api-version: 1.20.1
