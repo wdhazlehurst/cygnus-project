@@ -1,4 +1,11 @@
 name: CygnusPlugin
 version: 0.0.1
-main: io.github.wdhazleh.plugin
-api-version: 1.20.1
+main: io.github.wdhazleh.plugin.CygnusPlugin
+description: The Cygnus Project - A Minecraft Plugin
+api-version: 1.20
+
+commands:
+  cygnus:
+    description: All Cygnus commands are issued using this argument. See Usage.
+    usage: /<command> [sorting method] [normal|reverse]
+    
